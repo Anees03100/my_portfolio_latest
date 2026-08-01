@@ -1,0 +1,51 @@
+
+
+Muhammad Anees
++92-310-0894069| malikanees306@gmail.com| linkedin.com/in/muhammad-anees| github.com/Anees03100| Rawalpindi, Pakistan
+Professional Summary
+Flutter Developer and Software Engineering student with 1+ year of hands-on experience building and shipping cross-platform mobile
+applications and web dashboards.  Delivered 3 full-stack projects using Flutter, Firebase, Node.js, and MongoDB with real-time data,
+image uploads, and state management via Provider.  Strong fundamentals in REST API integration, clean architecture, and debugging
+complex production issues.
+Technical Skills
+Languages:  Dart, JavaScript (Node.js), Java, SQL, C++
+Frameworks & Libraries:  Flutter, Express.js, Provider (State Management)
+Databases & Cloud:  Firebase (Firestore, Auth, FCM, Storage), MongoDB, Cloudinary
+Tools & Platforms:  Git, GitHub, REST APIs, Figma, Android Studio, VS Code
+Concepts:  Cross-Platform Development, MVC, Clean Architecture, Real-Time Data, Push Notifications (FCM), Responsive UI
+Design, API Integration
+Education
+Foundation UniversityRawalpindi, Pakistan
+Bachelor of Science in Software EngineeringSep 2023 – Present
+–  Relevant Coursework:  Mobile Application Development, OOP, Database Systems, Software Construction & Development,
+Operating Systems, Software Project Management
+Certifications
+Flutter and Dart: Developing iOS, Android, and Mobile AppsCoursera
+IBM / Coursera2025
+Projects
+TraceIt| Flutter, Firebase Firestore, Cloudinary, Provider, Flutter Web| GitHub
+–  Built a real-time campus lost & found ecosystem with a Flutter mobile app for 200+ students and a Flutter Web admin
+dashboard for item and user management.
+–  Implemented null-safe Firestore real-time streams and atomic batch writes for admin actions, eliminating crashes and reducing
+multi-step operations to a single click.
+–  Integrated Cloudinary with client-side compression, reducing average image upload size by 60%.
+–  Designed responsive item screens using CustomScrollView and Slivers for pixel-perfect UI across all Android sizes.
+UniFlow| Flutter, Firebase, Provider, FCM, Android MethodChannel| GitHub
+–  Developed a university schedule and attendance tracking app with live class detection and GPA predictor used by classmates
+daily.
+–  Integrated FCM for automated class reminders and Android MethodChannel for native classroom silence mode, reducing manual
+interruptions.
+–  Added Firestore offline persistence with cache-first fetching and network fallback, enabling full usability with zero internet
+connectivity.
+SecondUp| Flutter, Node.js, Express.js, MongoDB, Firebase Auth, Cloudinary| GitHub
+–  Built a peer-to-peer marketplace with product listings, image uploads, real-time messaging, and user authentication as a group
+university project.
+–  Developed full RESTful backend API covering user auth, product CRUD, and Cloudinary image management using Node.js,
+Express.js, and MongoDB.
+Key Strengths
+Responsive mobile and web UI implementation using Flutter and Dart
+Strong debugging:  Firestore rules, stream management, Android-native integration
+Cross-functional team collaboration and agile project delivery
+Fast learner with a track record of shipping complete, production-ready features independently
+Languages
+English:  Professional working proficiency  Urdu:  Native
