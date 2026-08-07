@@ -19,6 +19,10 @@ export function ProjectCard({
   tech,
   onClick,
 }: ProjectCardProps) {
+  
+  // 1. We add this check to see if the icon string is a file path
+  const isImagePath = icon.includes('.') || icon.startsWith('/')
+
   return (
     <motion.button
       onClick={onClick}
@@ -27,11 +31,21 @@ export function ProjectCard({
       transition={{ duration: 0.3 }}
     >
       <div className="h-full p-8 rounded-2xl border border-border bg-card hover:border-accent transition-all duration-300 hover:shadow-lg hover:shadow-accent/20">
+        
         {/* Icon Background */}
         <div
-          className={`${backgroundColor} w-20 h-20 rounded-2xl flex items-center justify-center mb-6 text-4xl`}
+          className={`${backgroundColor} w-20 h-20 rounded-2xl flex items-center justify-center mb-6 text-4xl overflow-hidden`}
         >
-          {icon}
+          {/* 2. We conditionally render an image OR the emoji */}
+          {isImagePath ? (
+            <img 
+              src={icon} 
+              alt={`${name} icon`} 
+              className="w-12 h-12 object-contain" 
+            />
+          ) : (
+            icon
+          )}
         </div>
 
         {/* Title */}
