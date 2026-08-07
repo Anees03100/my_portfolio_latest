@@ -17,7 +17,7 @@ const PROJECTS = [
       'A complete lost & found solution featuring a Flutter mobile app for users and Flutter Web admin dashboard. Real-time Firestore streams track lost and found items with automatic matching. Users can post items, browse listings, and connect with finders/lookers securely.',
     details: 'Implemented null-safe Firestore real-time streams with atomic batch writes. Integrated Cloudinary with client-side compression, reducing image upload sizes by 60%. Designed responsive UI using CustomScrollView and Slivers.',
     tech: ['Flutter', 'Firebase Firestore', 'Cloudinary', 'Provider', 'Flutter Web'],
-    icon: '🔍',
+    icon: '/lost_found.png',
     backgroundColor: 'bg-gradient-to-br from-orange-900 to-orange-950',
     screenshots: [
       'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image2.png-JmKREi0x0r229B6zFvqkDb13To4hmC.jpeg',
